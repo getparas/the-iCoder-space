@@ -13,7 +13,7 @@ const Projects = () => {
       >
         Projects
       </motion.h2>
-      <div className="pnpm ">
+      <div className="pnpm-4 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
         {PROJECTS.map((project) => (
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}

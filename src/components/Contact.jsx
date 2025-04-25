@@ -53,7 +53,7 @@ const Contact = () => {
 
       emailjs
         .send(
-          "service_wdscrda",
+          "service_8tik7lj",
           "template_e5pana1",
           formData,
           "JVzyccYXp4dgJ-ef2"
